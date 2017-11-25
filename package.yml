@@ -1,0 +1,11 @@
+package: foundation
+version: '0.1'
+author: 'Friends Of REDAXO'
+supportpage: https://github.com/FriendsOfREDAXO/bootstrap/issues
+info: 'Idee und Realisierung der ersten Version: Tony Münzberg / Inspiriert von Oliver Kreischer (Bootstrap Addon)'
+compile: 0
+
+page:
+    title: 'translate:title'
+    perm: foundation[]
+    icon: rex-icon fa-bold
