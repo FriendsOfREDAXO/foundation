@@ -14,6 +14,8 @@ Folgendes ist geplant:
 - Module
 - ...
 
+**Über Issues mit Wünschen und Anträgen für Funktionen freue ich mich...**
+
 ---
 
 ### Autor  ###
